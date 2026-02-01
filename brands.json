@@ -1,0 +1,144 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Nike",
+      "logo": "brands/logo_1.png",
+      "background": "brands/1.jpg",
+      "cashback": "3% cashback"
+    },
+    {
+      "id": 2,
+      "name": "Adidas",
+      "logo": "brands/logo_2.png",
+      "background": "brands/2.jpg",
+      "cashback": null
+    },
+    {
+      "id": 3,
+      "name": "Sephora",
+      "logo": "brands/logo_3.png",
+      "background": "brands/3.jpg",
+      "cashback": "5% cashback"
+    },
+    {
+      "id": 4,
+      "name": "Best Buy",
+      "logo": "brands/logo_4.png",
+      "background": "brands/4.jpg",
+      "cashback": null
+    },
+    {
+      "id": 5,
+      "name": "Target",
+      "logo": "brands/logo_5.png",
+      "background": "brands/5.jpg",
+      "cashback": "2% cashback"
+    },
+    {
+      "id": 6,
+      "name": "Walmart",
+      "logo": "brands/logo_6.png",
+      "background": "brands/1.jpg",
+      "cashback": "4% cashback"
+    },
+    {
+      "id": 7,
+      "name": "Amazon",
+      "logo": "brands/logo_1.png",
+      "background": "brands/3.jpg",
+      "cashback": null
+    },
+    {
+      "id": 8,
+      "name": "Apple",
+      "logo": "brands/logo_2.png",
+      "background": "brands/5.jpg",
+      "cashback": "3% cashback"
+    },
+    {
+      "id": 9,
+      "name": "H&M",
+      "logo": "brands/logo_3.png",
+      "background": "brands/2.jpg",
+      "cashback": null
+    },
+    {
+      "id": 10,
+      "name": "Zara",
+      "logo": "brands/logo_4.png",
+      "background": "brands/4.jpg",
+      "cashback": "5% cashback"
+    },
+    {
+      "id": 11,
+      "name": "Ulta",
+      "logo": "brands/logo_5.png",
+      "background": "brands/1.jpg",
+      "cashback": null
+    },
+    {
+      "id": 12,
+      "name": "Lululemon",
+      "logo": "brands/logo_6.png",
+      "background": "brands/3.jpg",
+      "cashback": "2% cashback"
+    },
+    {
+      "id": 13,
+      "name": "Gap",
+      "logo": "brands/logo_1.png",
+      "background": "brands/5.jpg",
+      "cashback": "4% cashback"
+    },
+    {
+      "id": 14,
+      "name": "Old Navy",
+      "logo": "brands/logo_2.png",
+      "background": "brands/2.jpg",
+      "cashback": null
+    },
+    {
+      "id": 15,
+      "name": "IKEA",
+      "logo": "brands/logo_3.png",
+      "background": "brands/4.jpg",
+      "cashback": "3% cashback"
+    },
+    {
+      "id": 16,
+      "name": "Costco",
+      "logo": "brands/logo_4.png",
+      "background": "brands/1.jpg",
+      "cashback": null
+    },
+    {
+      "id": 17,
+      "name": "Home Depot",
+      "logo": "brands/logo_5.png",
+      "background": "brands/3.jpg",
+      "cashback": "5% cashback"
+    },
+    {
+      "id": 18,
+      "name": "Lowes",
+      "logo": "brands/logo_6.png",
+      "background": "brands/5.jpg",
+      "cashback": null
+    },
+    {
+      "id": 19,
+      "name": "Macys",
+      "logo": "brands/logo_1.png",
+      "background": "brands/2.jpg",
+      "cashback": "2% cashback"
+    },
+    {
+      "id": 20,
+      "name": "Nordstrom",
+      "logo": "brands/logo_2.png",
+      "background": "brands/4.jpg",
+      "cashback": "4% cashback"
+    }
+  ]
+}

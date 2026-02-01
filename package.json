@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "storybook": "^10.2.3"
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "devDependencies": {
+    "storybook-html-rsbuild": "^3.2.2",
+    "@storybook/addon-a11y": "^10.2.3",
+    "@storybook/addon-docs": "^10.2.3"
+  }
+}
